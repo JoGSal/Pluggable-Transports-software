@@ -1,0 +1,28 @@
+---
+layout: "package"
+permalink: "pkg-obfsvpn"
+description: >-
+  obfsvpn is a library for creating obfs4 client and server proxies, enhancing privacy and security through obfuscation. Designed for ease of use and integration.
+
+  
+icon: "https://raw.githubusercontent.com/gnu-octave/pkg-example/main/doc/icon.png"  
+links:
+- icon: "far fa-copyright"
+  label: "License"
+  url: "https://0xacab.org/leap/obfsvpn/-/commit/c51fb38aae17da3de9cbd52cc82822daa4329a8b"
+- icon: "fas fa-code-branch"
+  label: "repository"
+  url: "https://0xacab.org/leap/obfsvpn"
+- icon: "fas fa-book"
+  label: "project documentation"
+  url: "https://0xacab.org/leap/obfsvpn/-/commit/fca7342128159bd4c5f34854c9c8db83b1235142"  
+maintainers:
+- name: "Pea Nut"  
+  contact:   
+versions:
+- id:   
+  date:  
+  url:   
+languages:
+- name: "GO"  
+---
